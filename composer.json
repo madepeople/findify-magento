@@ -1,0 +1,9 @@
+{
+    "name": "findify/findify-magento",
+    "license": "BSD-4-Clause",
+    "type": "magento-module",
+    "description": "Findify module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
